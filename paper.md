@@ -20,6 +20,7 @@ affiliations:
  - name: Department of Earth and Environment, Boston University
    index: 2
 date: 6 November 2019
+bibliography: paper.bib
 
 ---
 
