@@ -1,5 +1,5 @@
 ---
-title: 'Open-Geo-Tutorial: a modern open-source toolkit for geospatial and remote sensing analysis using python'
+title: 'Open-Geo-Tutorial: a modern open-source toolkit for geospatial and remote sensing analysis in the earth sciences using python'
 tags:
   - geospatial
   - remote sensing
@@ -45,15 +45,10 @@ independently, and may serve as a reference for the advanced geospatial and remo
 Given the preponderance of academic programs in the earth and ocean sciences, geography, and even strong remote sensing programs that 
 teach students graphical based geospatial and remote sensing analysis (often in expensive proprietary software applications) we found 
 that students were often poorly equipped to analyze complex, highly dimensional, and large earth science datasets. Computer scientists
-coming into the earth sciences on the other hand often have the programming background, but not the intuition about geospatial data. And 
-neither of these groups were well versed in the modern tools that will be enable them to tackle challenging geospatial and remote sensing
-analyses bringing in machine learning, parallalization, or new tools such as Google Earth Engine.
+coming into the earth sciences on the other hand often have the programming background, but not the intuition about geospatial data or an understanding of the data sources available and the domain specific analysis techniques. And neither of these groups are usually well versed in the modern tools that will be enable them to tackle challenging geospatial and remote sensing analyses such as visualization highly dimensional datasets, machine learning, and parallalization of tasks.
 
 This work is aimed at both of those groups, earth scientists looking to improve their python and ability to tackle much larger problems,
-and students with experience programming but little background in geospatial and remote sensing analyses. Our goal is to give a broad taste of 
-the tools needed to work through challenging earth science problems, from downloading data from a NASA DAAC, to running your code in a 
-reproducible Docker container, to the actually python code you'll need to run to explore the data. We think this work is especially timely
-as the earth science community better understands the interconnectedness of the earth system, remote sensing tools are  larger datasets are becoming more easily avaiable the scientists tools must enable them 
+and students with experience programming but little background in geospatial and remote sensing analyses. Our goal is to give a broad taste of the tools needed to work through challenging earth science problems, from downloading data from a NASA DAAC, to running code in a reproducible Docker container, to the python packages and code you'll need to run to explore the data. We think this work is especially timely as the earth science community begins to tackle the complex interconnectedness of the earth system, new remote sensing platforms begin delivering more data at incredible spatial and temporal resolution, and machine learning tools are enabling nuanced insights into massive data streams.
 
 # Acknowledgements
 
