@@ -40,12 +40,12 @@ Earth Engine, and more all using modern open source software in Python (rasterio
 The materials included here should take the student anywhere from 4-8 hours to work through, are designed to be worked through 
 independently, and may serve as a reference for the advanced geospatial and remote sensing analyst.
 
-# Statement of Need
+## Statement of Need
 
 Given the preponderance of academic programs in the earth and ocean sciences, geography, and even strong remote sensing programs that 
 teach students graphical based geospatial and remote sensing analysis (often in expensive proprietary software applications) we found 
 that students were often poorly equipped to analyze complex, highly dimensional, and large earth science datasets. Computer scientists
-coming into the earth sciences on the other hand often have the programming background, but not the intuition about geospatial data or an understanding of the data sources available and the domain specific analysis techniques. And neither of these groups are usually well versed in the modern tools that will be enable them to tackle challenging geospatial and remote sensing analyses such as visualization highly dimensional datasets, machine learning, and parallalization of tasks.
+coming into the earth sciences on the other hand often have the programming background, but not the intuition about geospatial data or an understanding of the data sources available and the domain specific analysis techniques. And neither of these groups are usually well versed in the modern tools that will be enable them to tackle challenging geospatial and remote sensing analyses as a part of a scientific team such as visualization highly dimensional datasets, machine learning, parallalization of tasks, and reproducibility [@Wilson2014].
 
 This work is aimed at both of those groups, earth scientists looking to improve their python and ability to tackle much larger problems,
 and students with experience programming but little background in geospatial and remote sensing analyses. Our goal is to give a broad taste of the tools needed to work through challenging earth science problems, from downloading data from a NASA DAAC, to running code in a reproducible Docker container, to the python packages and code you'll need to run to explore the data. We think this work is especially timely as the earth science community begins to tackle the complex interconnectedness of the earth system, new remote sensing platforms begin delivering more data at incredible spatial and temporal resolution, and machine learning tools are enabling nuanced insights into massive data streams.
@@ -54,3 +54,5 @@ and students with experience programming but little background in geospatial and
 
 We acknowledge funding support from the North Carolina Space Grant Graduate Research Fellowship which permitted time to develop this 
 open-source series and the Duke Bass Connections program for providing the space to test this series with undergraduate students.
+
+# References
