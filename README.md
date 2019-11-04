@@ -28,6 +28,8 @@ All chapters are available as jupyter notebooks in the `notebooks/` directory or
    [[HTML](http://patrickgray.me/open-geo-tutorial/chapter_5_classification.html)]
 6. Deep Learning for land cover classification [[HTML](http://patrickgray.me/open-geo-tutorial/chapter_6_neural_networks.html)] built to run in [Google Colab](https://colab.research.google.com/github/patrickcgray/open-geo-tutorial/blob/master/notebooks/chapter_6_neural_networks.ipynb).
 7. Earth Engine for Oceanographic Time Series Analysis [[HTML](http://patrickgray.me/open-geo-tutorial/chapter_7_earth_engine_oceanography.html)]
+8. Xarray for handling N-dimensional arrays and advanced visualization (in progress)
+9. Parallelization with dask for large datasets and faster analysis (in progress)
 
 I strongly recommend using docker and downloading the jupyter notebooks so you can play as you read along, otherwise you will quickly forget these tools.
 
