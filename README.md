@@ -87,3 +87,12 @@ conda create --name open-geo-tutorial
 source activate open-geo-tutorial
 pip install -r requirements.txt
 ```
+
+### - Troubleshooting -
+
+Some additional packages may be required in order to install `geoviews`. For Fedora:
+```bash
+dnf install geos-devel
+dnf install proj-devel
+dnf install python3-devel
+```
